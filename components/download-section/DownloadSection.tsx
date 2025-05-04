@@ -19,7 +19,7 @@ export default function DownloadSection() {
                 <div className="mb-8 flex flex-col gap-4 sm:flex-row">
                   <Link href="#" className="inline-block">
                     <Image
-                      src="/placeholder.svg?height=60&width=200"
+                      src="/app-store-icon.png"
                       width={200}
                       height={60}
                       alt="Descargar en App Store"
@@ -28,7 +28,7 @@ export default function DownloadSection() {
                   </Link>
                   <Link href="#" className="inline-block">
                     <Image
-                      src="/placeholder.svg?height=60&width=200"
+                      src="/playstore.png"
                       width={200}
                       height={60}
                       alt="Descargar en Google Play"
@@ -62,11 +62,11 @@ export default function DownloadSection() {
               </div>
               <div className="relative mx-auto w-full max-w-md">
                 <Image
-                  src="/placeholder.svg?height=600&width=400"
+                  src="/app-view-1.png"
                   width={400}
                   height={600}
                   alt="App de LavaMóvil en smartphone"
-                  className="mx-auto rounded-xl shadow-xl"
+                  className="mx-auto h-full rounded-xl shadow-xl"
                 />
               </div>
             </div>

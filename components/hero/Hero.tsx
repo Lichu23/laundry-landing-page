@@ -19,7 +19,7 @@ export default function Hero() {
                 </div>
                 <div className="relative mx-auto w-full max-w-md">
                     <Image
-                        src="/placeholder.svg?height=600&width=400"
+                        src="/image-hero.jpg"
                         width={400}
                         height={600}
                         alt="App de LavaMóvil"

@@ -1,6 +1,5 @@
 import { Sparkles } from 'lucide-react'
 import Link from 'next/link'
-import React from 'react'
 
 export default function Header() {
   return (
@@ -20,15 +19,11 @@ export default function Header() {
             <Link href="#como-funciona" className="text-sm font-medium hover:text-sky-600">
               Cómo Funciona
             </Link>
-            <Link href="#precios" className="text-sm font-medium hover:text-sky-600">
-              Precios
-            </Link>
+            
             <Link href="#testimonios" className="text-sm font-medium hover:text-sky-600">
               Testimonios
             </Link>
-            <Link href="#contacto" className="text-sm font-medium hover:text-sky-600">
-              Contacto
-            </Link>
+          
           </nav>
           <div className="flex items-center gap-4">
             <Link
