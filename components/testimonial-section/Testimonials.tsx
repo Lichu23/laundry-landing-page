@@ -32,7 +32,7 @@ export default function Testimonials() {
                   <div className="flex items-center gap-4">
                     <div className="h-12 w-12 overflow-hidden rounded-full bg-sky-200">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/first-person.jpg"
                         width={48}
                         height={48}
                         alt="Cliente"
@@ -63,7 +63,7 @@ export default function Testimonials() {
                   <div className="flex items-center gap-4">
                     <div className="h-12 w-12 overflow-hidden rounded-full bg-sky-200">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/second-person.jpg"
                         width={48}
                         height={48}
                         alt="Cliente"
@@ -94,7 +94,7 @@ export default function Testimonials() {
                   <div className="flex items-center gap-4">
                     <div className="h-12 w-12 overflow-hidden rounded-full bg-sky-200">
                       <Image
-                        src="/placeholder.svg?height=48&width=48"
+                        src="/third-person.jpg"
                         width={48}
                         height={48}
                         alt="Cliente"
